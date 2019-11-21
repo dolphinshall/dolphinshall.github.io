@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The New Dolphins Hall on The Dolphins Hall</title>
@@ -6,10 +6,19 @@
     <description>Recent content in The New Dolphins Hall on The Dolphins Hall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dolphinshall.org/newbuild/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Build Drop In Consultation - December 15th 10am to 2pm</title>
+      <link>https://dolphinshall.org/newbuild/updates/update-2019-11-21/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dolphinshall.org/newbuild/updates/update-2019-11-21/</guid>
+      <description>&lt;p&gt;We appreciate it has been a while since we provided everyone with an update on the progress of the Redevelopment Project so as we approach the end of the year, we felt it was an appropriate time to let you know what has been going on behind the scenes the past few months.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>24th Feb 2019 – Drop-In Consultation Session about the Plans</title>
