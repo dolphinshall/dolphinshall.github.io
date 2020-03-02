@@ -286,6 +286,12 @@
   </url>
   
   <url>
+    <loc>https://dolphinshall.org/hall/terms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/trust/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
