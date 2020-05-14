@@ -53,7 +53,14 @@
   
   <url>
     <loc>https://dolphinshall.org/minutes/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-03-17/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
