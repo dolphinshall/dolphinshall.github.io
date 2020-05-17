@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dolphinshall.org/post/2020-05-14-ttc-planning/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/post/2020-05-13-plot-8/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,8 +24,15 @@
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+    <loc>https://dolphinshall.org/minutes/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-04-14/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,13 +68,6 @@
   <url>
     <loc>https://dolphinshall.org/post/2020-03-19-covid-19-update/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dolphinshall.org/minutes/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
