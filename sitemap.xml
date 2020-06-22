@@ -4,21 +4,14 @@
   
   <url>
     <loc>https://dolphinshall.org/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/minutes/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-04-28/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <loc>https://dolphinshall.org/post/2020-06-22-update-on-plot8/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,6 +26,13 @@
   <url>
     <loc>https://dolphinshall.org/post/2020-05-13-plot-8/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
