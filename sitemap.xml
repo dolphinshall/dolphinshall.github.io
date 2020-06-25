@@ -3,8 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dolphinshall.org/post/2020-06-25-project-update/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
