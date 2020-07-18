@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>https://dolphinshall.org/minutes/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-05-26/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/post/2020-05-14-ttc-planning/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,13 +68,6 @@
   <url>
     <loc>https://dolphinshall.org/post/2020-05-13-plot-8/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dolphinshall.org/minutes/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
