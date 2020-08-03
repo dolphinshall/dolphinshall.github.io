@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dolphinshall.org/post/2020-07-27-s106-refused/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <loc>https://dolphinshall.org/post/2020-08-03-some-progress/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dolphinshall.org/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/post/2020-07-27-s106-refused/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
