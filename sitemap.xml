@@ -52,6 +52,20 @@
   </url>
   
   <url>
+    <loc>https://dolphinshall.org/minutes/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-07-21/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/post/2020-07-13-progress/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,13 +88,6 @@
   
   <url>
     <loc>https://dolphinshall.org/post/2020-06-23-agm2020/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dolphinshall.org/minutes/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
