@@ -5,10 +5,6 @@
     <link>https://dolphinshall.org/trust/</link>
     <description>Recent content in The Dolphins Recreation Centre Trust on The Dolphins Hall</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://dolphinshall.org/trust/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://dolphinshall.org/trust/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
