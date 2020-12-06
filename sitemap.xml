@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dolphinshall.org/newbuild/updates/update-2020-10-22/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>https://dolphinshall.org/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/</loc>
+    <loc>https://dolphinshall.org/minutes/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-10-27/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/newbuild/updates/update-2020-10-22/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,8 +73,22 @@
   </url>
   
   <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-09-29/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dolphinshall.org/post/2020-09-24-new-playground-equipment/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-09-16/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,6 +103,13 @@
   <url>
     <loc>https://dolphinshall.org/post/2020-08-26-planning/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dolphinshall.org/minutes/dh-minutes-2020-08-25/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -96,13 +131,6 @@
   <url>
     <loc>https://dolphinshall.org/post/2020-07-27-s106-refused/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dolphinshall.org/minutes/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
