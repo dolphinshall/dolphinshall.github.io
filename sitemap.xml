@@ -639,19 +639,19 @@
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/volunteers/confirmation/</loc>
+    <loc>https://dolphinshall.org/volunteer/confirmation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/volunteers/validation/</loc>
+    <loc>https://dolphinshall.org/volunteer/validation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dolphinshall.org/volunteers/</loc>
+    <loc>https://dolphinshall.org/volunteer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
